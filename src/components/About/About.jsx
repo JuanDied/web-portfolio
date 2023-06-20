@@ -39,14 +39,14 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    'I am 24 years old and currently in my final year of studies. I am interested in software development that provides solutions in the financial, industrial, or agricultural fields, and I aim to be part of a team from which I can acquire and contribute knowledge in areas such as backend development, software architecture, and data engineering. I am also open to working with professionals from different countries and cultures.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    'I have knowledge in Python programming language and its main libraries (flask, pandas, tensorflow, etc), which have been useful for creating REST APIs, audio processing systems, and neural networks for speech recognition. I am also proficient in SQL databases (MySQL) and NoSQL databases (MongoDB). Additionally, I have experience with common web development tools such as HTML, CSS, JS, React, Node.js and tools like GIT, Webpack, sass; enabling me to build responsive applications using RESTful architectures and MVC patterns. I have also utilized SCRUM methodologies for  university  projects. My English level is C1 according to the latest EF SET test.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
+                  {paragraphThree || 'Review my projects, check my github and LinkedIn .'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">

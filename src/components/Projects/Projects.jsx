@@ -45,7 +45,7 @@ const Projects = () => {
                       <div>
                         <p>
                           {info ||
-                            'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                            'This project was developed using React, Next.js 12, Sass and deployed in Vercel. All while I was learning in Platzi(Online tech school). It is a basic e-commerce with a cart functionality. I will Add more features in the future, including a custom backend. '}
                         </p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
